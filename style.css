@@ -1,0 +1,84 @@
+ 
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 1.40rem;
+}
+button{
+    margin-left: 24rem;
+    width: 10rem;
+    height: 2rem;
+    background-color: grey;
+    margin-top: 1rem;
+}
+
+input{
+    margin-left: 18rem;
+    background-color: mediumorchid;
+    margin-top: -3rem;
+    width: 25rem;
+    height: 3rem;
+}
+caption{
+    margin-left: -1rem;
+    font-size: 1.5rem;
+}
+
+
+table{
+    margin-left: 18rem;  
+}
+
+
+div{
+    background-color: coral;
+    
+}
+
+th{
+    margin-left: 5rem;
+}
+tr{
+    background-color: mediumorchid;
+    font-size: 1.2rem
+}
+
+body{
+    background-image: url(Name.webp);
+    background-repeat: no-repeat;
+    background-size: 120%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
